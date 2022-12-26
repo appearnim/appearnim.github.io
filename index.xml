@@ -1,0 +1,26 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>一个全新的hugo网站</title>
+        <link>https://appearnim.github.io/</link>
+        <description>使用loveit主题的hugo静态网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1259451367@qq,com (覃韦莉)</managingEditor>
+            <webMaster>1259451367@qq,com (覃韦莉)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 24 Dec 2022 21:30:56 &#43;0800</lastBuildDate>
+            <atom:link href="https://appearnim.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>第二篇文章</title>
+    <link>https://appearnim.github.io/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+    <pubDate>Sat, 24 Dec 2022 21:30:56 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://appearnim.github.io/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+    <description><![CDATA[<p>Hugo的第一篇文章的文章摘要.</p>]]></description>
+</item><item>
+    <title>第一篇文章</title>
+    <link>https://appearnim.github.io/first_post/</link>
+    <pubDate>Sat, 24 Dec 2022 17:56:42 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://appearnim.github.io/first_post/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/basic-markdown-syntax/1.png" referrerpolicy="no-referrer">
+            </div>1 标题 2 文字编辑 111111111111111111111111111 222222222222222222222222222 哈哈哈 😂 引用 3333333333333333333 嵌套44444444444444444444 [×] 复选框 2.1表格 表格 1 2 选项 1 2 2.2链接 https://space.bilibili.com bilibili 3定位标记]]></description>
+</item></channel>
+</rss>
